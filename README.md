@@ -4,41 +4,23 @@
 
 ---
 
-## 这个仓库是什么
+## 我在做什么
 
-「我和我的军师」公开放出的 **Claude Code SKILL 集合**——我自己每天在用的工作流，挑能独立使用的部分放出来给你。
+**LifeOS · 人生操作系统**——把人生当成一个可以设计、运行、迭代的产品。
 
-完整的 LifeOS 是我自己在跑的人生操作系统（10 个模块，覆盖自我认知 → 战略 → 执行 → 复盘 → 战术决策 闭环），这里只放公开的部分。
-
----
-
-## SKILL 列表
-
-| SKILL | 一句话 | 路径 |
-|---|---|---|
-| **深度拆解法** | 对任何对象做本质穿透：先锁本质目标(第一性/因果链/真实动机/走向/错觉)，从 10 维池挑 3-5 维，每维由一位名人第一人称主讲，含反例自检 + 5 岁翻译 + 费曼讲述训练。三层输出：一句话本质 / 3-5 条洞察 / 完整分析。 | [`skills/deep-analysis`](./skills/deep-analysis) |
-
-(持续更新中)
+LifeOS 分 4 个子系统（个人管理 / 商业管理 / 输入系统 / 输出系统），每天用 AI 把它跑起来，沉淀出一整套 SKILL。
 
 ---
 
-## 怎么用
+## 公开 SKILL 在哪里
 
-这是 [Claude Code](https://claude.com/claude-code) 的 SKILL。把你想用的 SKILL 文件夹复制到你项目的 `.claude/skills/` 下,Claude Code 会自动识别。
+→ **[github.com/MyJunshi/LifeOS](https://github.com/MyJunshi/LifeOS)**
 
-例如:
-```
-你的项目/
-  .claude/
-    skills/
-      深度拆解法/        ← 复制 skills/deep-analysis/ 的内容到这里
-        SKILL.md
-        references/
-```
+那个仓里放公开发布的 SKILL（持续更新），可以直接下载丢到你的 Claude Code 项目里用。
 
 ---
 
-## 找我
+## 关注我
 
 **微信公众号：我和我的军师**——直接在微信里搜就能关注。
 
@@ -48,4 +30,4 @@
 
 ## 协议
 
-**CC BY-NC 4.0**：自用、学习、修改、传播免费(请署名)；**任何商业用途必须先获得授权**。完整协议见 [LICENSE](./LICENSE)。
+本仓库及 [MyJunshi/LifeOS](https://github.com/MyJunshi/LifeOS) 仓库内容均采用 **CC BY-NC 4.0**：自用、学习、修改、传播免费（请署名）；**任何商业用途必须先获得授权**。完整协议见 [LICENSE](./LICENSE)。
